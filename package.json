@@ -1,0 +1,9 @@
+{
+    "private": true,
+    "dependencies": {
+        "app.file": "1.0.4",
+        "app.init": "git+https://github.com/classtype/app.init.git",
+        "ejs": "3.1.6",
+        "express": "4.17.3"
+    }
+}
